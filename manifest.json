@@ -1,6 +1,7 @@
 {
-  "Name": "B.A.T.S",
+  "name": "B.A.T.S",
   "version": "0.0.1",
+  "description": "Browser Advt. Terminator Simple",
   "manifest_version": 3,
   "permissions": ["declarativeNetRequest"],
   "declarative_net_request": {
